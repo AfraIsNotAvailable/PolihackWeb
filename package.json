@@ -20,6 +20,8 @@
     "electron": "^7.1.2"
   },
   "dependencies": {
+    "sitemap": "^5.1.0",
+    "sitemap-generator": "^8.4.2",
     "xml-sitemap": "^0.3.2"
   }
 }
